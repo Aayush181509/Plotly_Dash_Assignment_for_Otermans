@@ -1,0 +1,2037 @@
+{
+  "IDC": {
+    "krizia86744776": {
+      "11-23-2022 10:24:42 PM": {
+        "dateTime": "11/23/2022 10:24:42 PM",
+        "name": "krizia",
+        "personalRecords": {
+          "CC": 2,
+          "EA": 3,
+          "TCA": 3,
+          "TQA": 3
+        },
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "36.77s",
+          "timeLesson": "",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "krizia86744776"
+      },
+      "11-23-2022 10:59:40 PM": {
+        "dateTime": "11/23/2022 10:59:40 PM",
+        "name": "krizia",
+        "personalRecords": {
+          "CC": 7,
+          "EA": 0,
+          "TCA": 7,
+          "TQA": 7
+        },
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "65.52s",
+          "timeLesson": "",
+          "timeMaps": "2.68s",
+          "timeQuiz": "52.51s",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "krizia86744776"
+      },
+      "11-23-2022 2:51:27 PM": {
+        "dateTime": "11/23/2022 2:51:27 PM",
+        "name": "krizia",
+        "personalRecords": {
+          "CC": 2,
+          "EA": 1,
+          "TCA": 5,
+          "TQA": 5
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "The first letter is A!\n A is for Apple, repeat after me, Apple, now you go",
+            "source": "Keyboard",
+            "timeInverval": "11.73s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Next letter is B\n B is for Ball, a ball is round, Come say it again, Ball",
+            "source": "Keyboard",
+            "timeInverval": "36.23s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Then comes C\n C is for Cat, a cat is an animal, it's your turn now  ",
+            "source": "Keyboard",
+            "timeInverval": "2.07s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Then comes C\n C is for Cat, a cat is an animal, it's your turn now  ",
+            "source": "Keyboard",
+            "timeInverval": "3.53s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Then comes C\n C is for Cat, a cat is an animal, it's your turn now  ",
+            "source": "Keyboard",
+            "timeInverval": "1.58s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Then comes C\n C is for Cat, a cat is an animal, it's your turn now  ",
+            "source": "Keyboard",
+            "timeInverval": "1.60s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Then comes C\n C is for Cat, a cat is an animal, it's your turn now  ",
+            "source": "Keyboard",
+            "timeInverval": "1.38s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "3.38s",
+          "timeHomeScreen": "148.70s",
+          "timeLesson": "70.32s",
+          "timeMaps": "18.16s",
+          "timeQuiz": "55.66s",
+          "timeRewardPage": "",
+          "timeStore": "9.67s"
+        },
+        "userId": "krizia86744776"
+      },
+      "11-23-2022 9:46:30 PM": {
+        "dateTime": "11/23/2022 9:46:30 PM",
+        "name": "krizia",
+        "personalRecords": {
+          "CC": 4,
+          "EA": 2,
+          "TCA": 8,
+          "TQA": 8
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "cap, ",
+            "location": "School",
+            "question": "Then comes C\n C is for Cat, a cat is an animal, it's your turn now  ",
+            "source": "Mic",
+            "timeInverval": "21.16s",
+            "userTrails": 2
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Mic",
+            "timeInverval": "10.29s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Now, comes E\n E is for Elephant, let's say it together, Elephant, Let's say it again",
+            "source": "Mic",
+            "timeInverval": "8.71s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Then comes C\n C is for Cat, a cat is an animal, it's your turn now  ",
+            "source": "Mic",
+            "timeInverval": "1.18s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "The next letter is F\n F is for Flower, Yes, you are right, Flower, say it again, Come on.",
+            "source": "Mic",
+            "timeInverval": "1.92s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "The next letter is F\n F is for Flower, Yes, you are right, Flower, say it again, Come on.",
+            "source": "Mic",
+            "timeInverval": "4.50s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "The next letter is F\n F is for Flower, Yes, you are right, Flower, say it again, Come on.",
+            "source": "Mic",
+            "timeInverval": "1.05s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "The next letter is F\n F is for Flower, Yes, you are right, Flower, say it again, Come on.",
+            "source": "Mic",
+            "timeInverval": "2.50s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "163.96s",
+          "timeLesson": "64.51s",
+          "timeMaps": "27.36s",
+          "timeQuiz": "83.29s",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "krizia86744776"
+      },
+      "11-24-2022 1:39:34 PM": {
+        "dateTime": "11/24/2022 1:39:34 PM",
+        "name": "krizia",
+        "personalRecords": {
+          "CC": 6,
+          "EA": 0,
+          "TCA": 15,
+          "TQA": 16
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Sports",
+            "errorAttempts": "",
+            "location": "Playground",
+            "question": "Let's play Football today. So what are we playing again?",
+            "source": "Keyboard",
+            "timeInverval": "10.30s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Sports",
+            "errorAttempts": "",
+            "location": "Playground",
+            "question": "Let's put a ball through the hoop…We are going to play Basketball. Come say it with me?",
+            "source": "Keyboard",
+            "timeInverval": "19.49s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Sports",
+            "errorAttempts": "",
+            "location": "Playground",
+            "question": "Next we are going to use a bat and ball. We are now going to play Cricket. So what are we playing again?",
+            "source": "Keyboard",
+            "timeInverval": "10.85s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Sports",
+            "errorAttempts": "",
+            "location": "Playground",
+            "question": "Let's put a ball through the hoop…We are going to play Basketball. Come say it with me?",
+            "source": "Keyboard",
+            "timeInverval": "12.99s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Sports",
+            "errorAttempts": "",
+            "location": "Playground",
+            "question": "Next we are going to use a bat and ball. We are now going to play Cricket. So what are we playing again?",
+            "source": "Keyboard",
+            "timeInverval": "8.67s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Sports",
+            "errorAttempts": "",
+            "location": "Playground",
+            "question": "Let's play Tennis today. Are you excited? So what are we playing again?",
+            "source": "Keyboard",
+            "timeInverval": "56.95s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Restaurant",
+            "errorAttempts": "",
+            "location": "Kitchen",
+            "question": "Today, we are going to cook a Pizza. So, what are we going to cook today?",
+            "source": "Keyboard",
+            "timeInverval": "8.02s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Restaurant",
+            "errorAttempts": "",
+            "location": "Kitchen",
+            "question": "It's cold outside, and it's time to make some Soup. Tell me, what are we making?",
+            "source": "Keyboard",
+            "timeInverval": "9.07s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Restaurant",
+            "errorAttempts": "",
+            "location": "Kitchen",
+            "question": "It's time to bake some Cookies… Are you excited? What are we baking today?",
+            "source": "Keyboard",
+            "timeInverval": "7.32s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Restaurant",
+            "errorAttempts": "",
+            "location": "Kitchen",
+            "question": "It's cold outside, and it's time to make some Soup. Tell me, what are we making?",
+            "source": "Keyboard",
+            "timeInverval": "5.98s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Restaurant",
+            "errorAttempts": "",
+            "location": "Kitchen",
+            "question": "Today, we are going to cook a Pizza. So, what are we going to cook today?",
+            "source": "Keyboard",
+            "timeInverval": "7.32s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Restaurant",
+            "errorAttempts": "",
+            "location": "Kitchen",
+            "question": "The dish we are cooking today is Pasta... One more time, what are we cooking?",
+            "source": "Keyboard",
+            "timeInverval": "66.85s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "The next letter is F\n F is for Flower, Yes, you are right, Flower, say it again, Come on.",
+            "source": "Keyboard",
+            "timeInverval": "10.12s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Welcome letter G\n G is for Great, repeat after me, Great, now you go...",
+            "source": "Keyboard",
+            "timeInverval": "12.13s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Then comes H\n H is for House, Say it along, House, come on, your turn",
+            "source": "Keyboard",
+            "timeInverval": "6.83s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "7.87s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "The next letter is F\n F is for Flower, Yes, you are right, Flower, say it again, Come on.",
+            "source": "Keyboard",
+            "timeInverval": "4.78s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Next letter is B\n B is for Ball, a ball is round, Come say it again, Ball",
+            "source": "Keyboard",
+            "timeInverval": "5.53s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "71.56s",
+          "timeLesson": "262.46s",
+          "timeMaps": "81.57s",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "krizia86744776"
+      },
+      "11-24-2022 3:42:30 PM": {
+        "dateTime": "11/24/2022 3:42:30 PM",
+        "name": "krizia",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "3.85s",
+          "timeLesson": "",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "krizia86744776"
+      },
+      "11-27-2022 10:26:13 PM": {
+        "dateTime": "11/27/2022 10:26:13 PM",
+        "name": "krizia",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "The letter is L!\n L is for Lemon, repeat after me, Lemon, now you go...",
+            "source": "Keyboard",
+            "timeInverval": "3.05s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "39.41s",
+          "timeLesson": "3.05s",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "krizia86744776"
+      },
+      "11-27-2022 11:27:48 AM": {
+        "dateTime": "11/27/2022 11:27:48 AM",
+        "name": "krizia",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Next letter is I\n I is for Ice cream, say with a smile, Ice cream , Very good, say it again",
+            "source": "Keyboard",
+            "timeInverval": "2.82s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "5.60s",
+          "timeHomeScreen": "19.90s",
+          "timeLesson": "2.82s",
+          "timeMaps": "14.25s",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "krizia86744776"
+      }
+    },
+    "peri  peri98263724": {
+      "08-11-2022 14:57:43": {
+        "dateTime": "08/11/2022 14:57:43",
+        "name": "peri  peri",
+        "personalRecords": {
+          "CC": 5,
+          "EA": 1,
+          "TCA": 7,
+          "TQA": 7
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "The first letter is A!\n A is for Apple, repeat after me, Apple, now you go",
+            "source": "Mic",
+            "timeInverval": "1.89s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Next letter is B\n B is for Ball, a ball is round, Come say it again, Ball",
+            "source": "Mic",
+            "timeInverval": "5.00s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "109.74s",
+          "timeLesson": "",
+          "timeMaps": "",
+          "timeQuiz": "61.48s",
+          "timeRewardPage": "",
+          "timeStore": "5.74s"
+        },
+        "userId": "peri  peri98263724"
+      },
+      "08-11-2022 15:02:48": {
+        "dateTime": "08/11/2022 15:02:48",
+        "name": "peri  peri",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "12.19s",
+          "timeLesson": "",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "peri  peri98263724"
+      },
+      "11-11-2022 12:41:57": {
+        "dateTime": "11/11/2022 12:41:57",
+        "name": "peri  peri",
+        "personalRecords": {
+          "CC": 11,
+          "EA": 1,
+          "TCA": 30,
+          "TQA": 30
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Then comes C\n C is for Cat, a cat is an animal, it's your turn now  ",
+            "source": "Mic",
+            "timeInverval": "10.27s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Mic",
+            "timeInverval": "6.17s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Now, comes E\n E is for Elephant, let's say it together, Elephant, Let's say it again",
+            "source": "Mic",
+            "timeInverval": "1.57s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Next letter is B\n B is for Ball, a ball is round, Come say it again, Ball",
+            "source": "Mic",
+            "timeInverval": "1.56s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "The first letter is A!\n A is for Apple, repeat after me, Apple, now you go",
+            "source": "Mic",
+            "timeInverval": "1.91s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Mic",
+            "timeInverval": "1.54s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Sports",
+            "errorAttempts": "",
+            "location": "Playground",
+            "question": "Let's play Football today. So what are we playing again?",
+            "source": "Keyboard",
+            "timeInverval": "2.25s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Restaurant",
+            "errorAttempts": "",
+            "location": "Kitchen",
+            "question": "Today, we are going to cook a Pizza. So, what are we going to cook today?",
+            "source": "Mic",
+            "timeInverval": "10.06s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Restaurant",
+            "errorAttempts": "",
+            "location": "Kitchen",
+            "question": "It's cold outside, and it's time to make some Soup. Tell me, what are we making?",
+            "source": "Mic",
+            "timeInverval": "2.06s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Restaurant",
+            "errorAttempts": "",
+            "location": "Kitchen",
+            "question": "It's time to bake some Cookies… Are you excited? What are we baking today?",
+            "source": "Mic",
+            "timeInverval": "5.28s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Restaurant",
+            "errorAttempts": "",
+            "location": "Kitchen",
+            "question": "It's cold outside, and it's time to make some Soup. Tell me, what are we making?",
+            "source": "Mic",
+            "timeInverval": "1.69s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Restaurant",
+            "errorAttempts": "",
+            "location": "Kitchen",
+            "question": "Today, we are going to cook a Pizza. So, what are we going to cook today?",
+            "source": "Mic",
+            "timeInverval": "1.51s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Restaurant",
+            "errorAttempts": "",
+            "location": "Kitchen",
+            "question": "Let's learn how to make Curry… One more time, what are we cooking?",
+            "source": "Mic",
+            "timeInverval": "2.48s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Restaurant",
+            "errorAttempts": "",
+            "location": "Kitchen",
+            "question": "Are you excited to learn about Chinese noodles. Come, tell me what are we going to cook today?",
+            "source": "Mic",
+            "timeInverval": "3.76s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Restaurant",
+            "errorAttempts": "",
+            "location": "Kitchen",
+            "question": "It's time to bake some Cookies… Are you excited? What are we baking today?",
+            "source": "Mic",
+            "timeInverval": "1.69s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Restaurant",
+            "errorAttempts": "",
+            "location": "Kitchen",
+            "question": "Today, we are going to cook a Pizza. So, what are we going to cook today?",
+            "source": "Mic",
+            "timeInverval": "2.24s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Restaurant",
+            "errorAttempts": "",
+            "location": "Kitchen",
+            "question": "It's cold outside, and it's time to make some Soup. Tell me, what are we making?",
+            "source": "Mic",
+            "timeInverval": "1.72s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Restaurant",
+            "errorAttempts": "",
+            "location": "Kitchen",
+            "question": "The dish we are cooking today is Pasta... One more time, what are we cooking?",
+            "source": "Keyboard",
+            "timeInverval": "53.72s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "95.62s",
+          "timeLesson": "151.28s",
+          "timeMaps": "25.32s",
+          "timeQuiz": "47.72s",
+          "timeRewardPage": "",
+          "timeStore": "34.99s"
+        },
+        "userId": "peri  peri98263724"
+      }
+    },
+    "pradip71059610": {
+      "11-11-2022 12:57:00 PM": {
+        "dateTime": "11/11/2022 12:57:00 PM",
+        "name": "pradip",
+        "personalRecords": {
+          "CC": 2,
+          "EA": 0,
+          "TCA": 3,
+          "TQA": 3
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Sports",
+            "errorAttempts": "",
+            "location": "Playground",
+            "question": "Let's play Football today. So what are we playing again?",
+            "source": "Keyboard",
+            "timeInverval": "5.51s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Next letter is B\n B is for Ball, a ball is round, Come say it again, Ball",
+            "source": "Keyboard",
+            "timeInverval": "4.21s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Restaurant",
+            "errorAttempts": "",
+            "location": "Kitchen",
+            "question": "Today, we are going to cook a Pizza. So, what are we going to cook today?",
+            "source": "Keyboard",
+            "timeInverval": "4.33s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Animals",
+            "errorAttempts": "",
+            "location": "Zoo",
+            "question": "This animal is called a Dog... Did you know that? So what is this animal again?",
+            "source": "Keyboard",
+            "timeInverval": "3.70s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Next letter is B\n B is for Ball, a ball is round, Come say it again, Ball",
+            "source": "Keyboard",
+            "timeInverval": "13.23s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Next letter is B\n B is for Ball, a ball is round, Come say it again, Ball",
+            "source": "Keyboard",
+            "timeInverval": "5.72s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "92.22s",
+          "timeLesson": "36.70s",
+          "timeMaps": "32.30s",
+          "timeQuiz": "17.92s",
+          "timeRewardPage": "",
+          "timeStore": "19.15s"
+        },
+        "userId": "pradip71059610"
+      },
+      "11-14-2022 1:28:58 PM": {
+        "dateTime": "11/14/2022 1:28:58 PM",
+        "name": "pradip",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Next letter is B\n B is for Ball, a ball is round, Come say it again, Ball",
+            "source": "Keyboard",
+            "timeInverval": "3.43s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "84.90s",
+          "timeLesson": "3.43s",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "pradip71059610"
+      },
+      "11-14-2022 1:36:05 PM": {
+        "dateTime": "11/14/2022 1:36:05 PM",
+        "name": "pradip",
+        "personalRecords": {
+          "CC": 4,
+          "EA": 2,
+          "TCA": 8,
+          "TQA": 8
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Next letter is B\n B is for Ball, a ball is round, Come say it again, Ball",
+            "source": "Keyboard",
+            "timeInverval": "4.83s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Then comes C\n C is for Cat, a cat is an animal, it's your turn now  ",
+            "source": "Keyboard",
+            "timeInverval": "5.10s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "4.32s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "5.52s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Then comes C\n C is for Cat, a cat is an animal, it's your turn now  ",
+            "source": "Keyboard",
+            "timeInverval": "0.10s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "52.90s",
+          "timeLesson": "36.35s",
+          "timeMaps": "",
+          "timeQuiz": "49.07s",
+          "timeRewardPage": "",
+          "timeStore": "2.11s"
+        },
+        "userId": "pradip71059610"
+      },
+      "11-14-2022 8:59:23 PM": {
+        "dateTime": "11/14/2022 8:59:23 PM",
+        "name": "pradip",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "14.76s",
+          "timeLesson": "",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "pradip71059610"
+      },
+      "11-17-2022 4:51:55 PM": {
+        "dateTime": "11/17/2022 4:51:55 PM",
+        "name": "pradip",
+        "personalRecords": {
+          "CC": 1,
+          "EA": 0,
+          "TCA": 1,
+          "TQA": 1
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Now, comes E\n E is for Elephant, let's say it together, Elephant, Let's say it again",
+            "source": "Keyboard",
+            "timeInverval": "7.08s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "The next letter is F\n F is for Flower, Yes, you are right, Flower, say it again, Come on.",
+            "source": "Keyboard",
+            "timeInverval": "1.07s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "58.82s",
+          "timeLesson": "8.17s",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "pradip71059610"
+      },
+      "11-20-2022 1:41:29 PM": {
+        "dateTime": "11/20/2022 1:41:29 PM",
+        "name": "pradip",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "18.63s",
+          "timeLesson": "",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "pradip71059610"
+      },
+      "11-20-2022 2:12:57 PM": {
+        "dateTime": "11/20/2022 2:12:57 PM",
+        "name": "pradip",
+        "personalRecords": {
+          "CC": 1,
+          "EA": 1,
+          "TCA": 2,
+          "TQA": 2
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "The next letter is F\n F is for Flower, Yes, you are right, Flower, say it again, Come on.",
+            "source": "Keyboard",
+            "timeInverval": "4.99s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Welcome letter G\n G is for Great, repeat after me, Great, now you go...",
+            "source": "Keyboard",
+            "timeInverval": "2.28s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "0.63s",
+          "timeHomeScreen": "12.77s",
+          "timeLesson": "7.29s",
+          "timeMaps": "",
+          "timeQuiz": "12.98s",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "pradip71059610"
+      },
+      "11-21-2022 1:22:15 PM": {
+        "dateTime": "11/21/2022 1:22:15 PM",
+        "name": "pradip",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Welcome letter G\n G is for Great, repeat after me, Great, now you go...",
+            "source": "Keyboard",
+            "timeInverval": "1.30s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "14.34s",
+          "timeLesson": "1.30s",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "pradip71059610"
+      },
+      "11-24-2022 12:47:54 PM": {
+        "dateTime": "11/24/2022 12:47:54 PM",
+        "name": "pradip",
+        "personalRecords": {
+          "CC": 2,
+          "EA": 0,
+          "TCA": 2,
+          "TQA": 2
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Welcome letter G\n G is for Great, repeat after me, Great, now you go...",
+            "source": "Keyboard",
+            "timeInverval": "7.52s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Then comes H\n H is for House, Say it along, House, come on, your turn",
+            "source": "Keyboard",
+            "timeInverval": "17.68s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "37.10s",
+          "timeLesson": "",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": "3.43s"
+        },
+        "userId": "pradip71059610"
+      },
+      "11-24-2022 12:51:15 PM": {
+        "dateTime": "11/24/2022 12:51:15 PM",
+        "name": "",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "0.33s",
+          "timeLesson": "",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "pradip71059610"
+      },
+      "11-24-2022 12:52:20 PM": {
+        "dateTime": "11/24/2022 12:52:20 PM",
+        "name": "",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "0.33s",
+          "timeLesson": "",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "pradip71059610"
+      },
+      "11-24-2022 12:53:02 PM": {
+        "dateTime": "11/24/2022 12:53:02 PM",
+        "name": "",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "0.33s",
+          "timeLesson": "",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "pradip71059610"
+      },
+      "11-24-2022 12:54:29 PM": {
+        "dateTime": "11/24/2022 12:54:29 PM",
+        "name": "",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "0.33s",
+          "timeLesson": "",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "pradip71059610"
+      },
+      "11-8-2022 2:40:17 PM": {
+        "dateTime": "11/8/2022 2:40:17 PM",
+        "name": "pradip",
+        "personalRecords": {
+          "CC": 1,
+          "EA": 1,
+          "TCA": 1,
+          "TQA": 1
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "The first letter is A!\n A is for Apple, repeat after me, Apple, now you go",
+            "source": "Keyboard",
+            "timeInverval": "6.08s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "9.80s",
+          "timeLesson": "8.61s",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "pradip71059610"
+      },
+      "11-8-2022 2:42:45 PM": {
+        "dateTime": "11/8/2022 2:42:45 PM",
+        "name": "pradip",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Next letter is B\n B is for Ball, a ball is round, Come say it again, Ball",
+            "source": "Keyboard",
+            "timeInverval": "4.19s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "30.80s",
+          "timeLesson": "4.19s",
+          "timeMaps": "1.99s",
+          "timeQuiz": "0.77s",
+          "timeRewardPage": "",
+          "timeStore": "1.43s"
+        },
+        "userId": "pradip71059610"
+      },
+      "11-9-2022 2:51:24 PM": {
+        "dateTime": "11/9/2022 2:51:24 PM",
+        "name": "pradip",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Next letter is B\n B is for Ball, a ball is round, Come say it again, Ball",
+            "source": "Keyboard",
+            "timeInverval": "1.26s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Next letter is B\n B is for Ball, a ball is round, Come say it again, Ball",
+            "source": "Keyboard",
+            "timeInverval": "1.49s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "166.11s",
+          "timeLesson": "2.75s",
+          "timeMaps": "8.23s",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": "7.98s"
+        },
+        "userId": "pradip71059610"
+      },
+      "11-9-2022 3:13:27 PM": {
+        "dateTime": "11/9/2022 3:13:27 PM",
+        "name": "pradip",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "timeSpent": {
+          "timeAI": "4.74s",
+          "timeHomeScreen": "206.23s",
+          "timeLesson": "",
+          "timeMaps": "3.97s",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "pradip71059610"
+      },
+      "11-9-2022 3:33:09 PM": {
+        "dateTime": "11/9/2022 3:33:09 PM",
+        "name": "pradip",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "13.03s",
+          "timeLesson": "",
+          "timeMaps": "2.64s",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "pradip71059610"
+      }
+    },
+    "pradip95243213": {
+      "23-11-2022 11:11:17": {
+        "dateTime": "23/11/2022 11:11:17",
+        "name": "pradip",
+        "personalRecords": {
+          "CC": 1,
+          "EA": 0,
+          "TCA": 1,
+          "TQA": 1
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "The first letter is A!\n A is for Apple, repeat after me, Apple, now you go",
+            "source": "Keyboard",
+            "timeInverval": "10.91s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Next letter is B\n B is for Ball, a ball is round, Come say it again, Ball",
+            "source": "Keyboard",
+            "timeInverval": "1.79s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "17.88s",
+          "timeLesson": "12.75s",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "pradip95243213"
+      }
+    },
+    "sirupate21477013": {
+      "11-24-2022 12:54:29 PM": {
+        "dateTime": "11/24/2022 12:54:29 PM",
+        "name": "sirupate",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "0.33s",
+          "timeLesson": "",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "sirupate21477013"
+      },
+      "11-24-2022 1:31:49 PM": {
+        "dateTime": "11/24/2022 1:31:49 PM",
+        "name": "sirupate",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "16.40s",
+          "timeLesson": "",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "sirupate21477013"
+      },
+      "11-24-2022 1:40:45 PM": {
+        "dateTime": "11/24/2022 1:40:45 PM",
+        "name": "sirupate",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "The first letter is A!\n A is for Apple, repeat after me, Apple, now you go",
+            "source": "Keyboard",
+            "timeInverval": "2.59s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "16.02s",
+          "timeLesson": "2.59s",
+          "timeMaps": "3.84s",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "sirupate21477013"
+      },
+      "11-25-2022 2:53:09 PM": {
+        "dateTime": "11/25/2022 2:53:09 PM",
+        "name": "sirupate",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "58.89s",
+          "timeLesson": "",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "sirupate21477013"
+      },
+      "11-25-2022 3:13:46 PM": {
+        "dateTime": "11/25/2022 3:13:46 PM",
+        "name": "",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "8.81s",
+          "timeLesson": "",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "sirupate21477013"
+      },
+      "11-25-2022 3:17:24 PM": {
+        "dateTime": "11/25/2022 3:17:24 PM",
+        "name": "sirupate",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "50.87s",
+          "timeLesson": "",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "sirupate21477013"
+      },
+      "11-29-2022 2:44:26 PM": {
+        "dateTime": "11/29/2022 2:44:26 PM",
+        "name": "sirupate",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "98.37s",
+          "timeLesson": "",
+          "timeMaps": "1.07s",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": "3.82s"
+        },
+        "userId": "sirupate21477013"
+      },
+      "11-29-2022 2:49:18 PM": {
+        "dateTime": "11/29/2022 2:49:18 PM",
+        "name": "sirupate",
+        "personalRecords": {
+          "CC": 1,
+          "EA": 0,
+          "TCA": 1,
+          "TQA": 1
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Then comes C\n C is for Cat, a cat is an animal, it's your turn now  ",
+            "source": "Keyboard",
+            "timeInverval": "5.55s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "1.09s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "0.76s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "0.74s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "0.85s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "0.98s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "0.91s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "19.88s",
+          "timeLesson": "12.34s",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "sirupate21477013"
+      },
+      "11-29-2022 2:51:06 PM": {
+        "dateTime": "11/29/2022 2:51:06 PM",
+        "name": "sirupate",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "1.46s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "0.77s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "0.69s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "0.82s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "17.52s",
+          "timeLesson": "3.74s",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "sirupate21477013"
+      },
+      "11-29-2022 2:59:03 PM": {
+        "dateTime": "11/29/2022 2:59:03 PM",
+        "name": "sirupate",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "1.99s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "2.16s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "2.03s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "1.34s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "1.30s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "8.67s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "2.14s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "2.38s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "24.69s",
+          "timeLesson": "22.01s",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "sirupate21477013"
+      },
+      "11-29-2022 4:14:35 PM": {
+        "dateTime": "11/29/2022 4:14:35 PM",
+        "name": "sirupate",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "5.34s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "10.06s",
+          "timeLesson": "5.34s",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "sirupate21477013"
+      },
+      "11-29-2022 4:15:08 PM": {
+        "dateTime": "11/29/2022 4:15:08 PM",
+        "name": "sirupate",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "7.37s",
+          "timeLesson": "",
+          "timeMaps": "",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "sirupate21477013"
+      },
+      "11-29-2022 4:18:18 PM": {
+        "dateTime": "11/29/2022 4:18:18 PM",
+        "name": "sirupate",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Let's call the next letter, D\n D is for Doctor, repeat after me, Doctor, Say it again",
+            "source": "Keyboard",
+            "timeInverval": "4.80s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "8.61s",
+          "timeLesson": "4.80s",
+          "timeMaps": "1.09s",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "sirupate21477013"
+      }
+    },
+    "yash19263295": {
+      "09-11-2022 15:40:56": {
+        "dateTime": "09/11/2022 15:40:56",
+        "name": "yash",
+        "personalRecords": {
+          "CC": 0,
+          "EA": 0,
+          "TCA": 0,
+          "TQA": 0
+        },
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "10.01s",
+          "timeLesson": "",
+          "timeMaps": "1.83s",
+          "timeQuiz": "",
+          "timeRewardPage": "",
+          "timeStore": ""
+        },
+        "userId": "yash19263295"
+      },
+      "15-11-2022 16:54:54": {
+        "dateTime": "15/11/2022 16:54:54",
+        "name": "yash",
+        "personalRecords": {
+          "CC": 2,
+          "EA": 1,
+          "TCA": 3,
+          "TQA": 4
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Animals",
+            "errorAttempts": "",
+            "location": "Zoo",
+            "question": "This animal is called a Dog... Did you know that? So what is this animal again?",
+            "source": "Mic",
+            "timeInverval": "21.24s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Animals",
+            "errorAttempts": "",
+            "location": "Zoo",
+            "question": "Look, here comes a tiger, Tell me again what animal is this?          ",
+            "source": "Mic",
+            "timeInverval": "7.09s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Animals",
+            "errorAttempts": "i don't know, ",
+            "location": "Zoo",
+            "question": "Oh look, it's a Meerkat, What do we call this animal?",
+            "source": "Mic",
+            "timeInverval": "14.64s",
+            "userTrails": 4
+          },
+          {
+            "courseTitle": "Animals",
+            "errorAttempts": "",
+            "location": "Zoo",
+            "question": "Look, here comes a tiger, Tell me again what animal is this?          ",
+            "source": "Mic",
+            "timeInverval": "15.18s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Animals",
+            "errorAttempts": "",
+            "location": "Zoo",
+            "question": "Oh look, it's a Meerkat, What do we call this animal?",
+            "source": "Mic",
+            "timeInverval": "1.07s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "149.97s",
+          "timeLesson": "75.28s",
+          "timeMaps": "15.60s",
+          "timeQuiz": "7.10s",
+          "timeRewardPage": "",
+          "timeStore": "24.55s"
+        },
+        "userId": "yash19263295"
+      },
+      "16-11-2022 15:19:43": {
+        "dateTime": "16/11/2022 15:19:43",
+        "name": "yash",
+        "personalRecords": {
+          "CC": 3,
+          "EA": 3,
+          "TCA": 9,
+          "TQA": 9
+        },
+        "questionsData": [
+          {
+            "courseTitle": "Sports",
+            "errorAttempts": "",
+            "location": "Playground",
+            "question": "Let's play Football today. So what are we playing again?",
+            "source": "Mic",
+            "timeInverval": "6.75s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Sports",
+            "errorAttempts": "",
+            "location": "Playground",
+            "question": "Let's put a ball through the hoop…We are going to play Basketball. Come say it with me?",
+            "source": "Mic",
+            "timeInverval": "14.90s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Sports",
+            "errorAttempts": "play again, turn on, i don't know, ",
+            "location": "Playground",
+            "question": "Next we are going to use a bat and ball. We are now going to play Cricket. So what are we playing again?",
+            "source": "Mic",
+            "timeInverval": "37.18s",
+            "userTrails": 8
+          },
+          {
+            "courseTitle": "Sports",
+            "errorAttempts": "",
+            "location": "Playground",
+            "question": "Next we are going to use a bat and ball. We are now going to play Cricket. So what are we playing again?",
+            "source": "Mic",
+            "timeInverval": "9.34s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Sports",
+            "errorAttempts": "",
+            "location": "Playground",
+            "question": "Let's put a ball through the hoop…We are going to play Basketball. Come say it with me?",
+            "source": "Mic",
+            "timeInverval": "5.16s",
+            "userTrails": 1
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "paul, paul, ",
+            "location": "School",
+            "question": "Next letter is B\n B is for Ball, a ball is round, Come say it again, Ball",
+            "source": "Mic",
+            "timeInverval": "19.97s",
+            "userTrails": 3
+          },
+          {
+            "courseTitle": "Alphabet",
+            "errorAttempts": "",
+            "location": "School",
+            "question": "Then comes C\n C is for Cat, a cat is an animal, it's your turn now  ",
+            "source": "Mic",
+            "timeInverval": "25.86s",
+            "userTrails": 1
+          }
+        ],
+        "timeSpent": {
+          "timeAI": "",
+          "timeHomeScreen": "65.10s",
+          "timeLesson": "167.72s",
+          "timeMaps": "11.05s",
+          "timeQuiz": "46.99s",
+          "timeRewardPage": "",
+          "timeStore": "32.59s"
+        },
+        "userId": "yash19263295"
+      }
+    }
+  },
+  "users": {
+    "00dc90b47877183bbdf7df4a3f39af4b": {
+      "coin": 10000,
+      "name": "Amit"
+    },
+    "817261fac0ea11f83c860bf40bbd855d": {
+      "coin": 10000,
+      "name": "Amit"
+    },
+    "9a093cd3bc903bb8713e9310cd711250": {
+      "coin": 10000,
+      "name": "Amit"
+    },
+    "a87016552b96477045bc2e00edb522ee": {
+      "coin": 10000,
+      "name": "Amit"
+    },
+    "bb50090a2a9d353d7df94cb27d81fc27": {
+      "coin": 10000,
+      "name": "Amit"
+    }
+  },
+  "version": 0.1
+}
