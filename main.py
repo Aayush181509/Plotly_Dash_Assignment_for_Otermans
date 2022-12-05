@@ -22,6 +22,7 @@ df=pd.read_csv("data/IDC_new_Data.csv")
 #Build The Components
 # Component 1 Barchart
 barchart_component=html.Div([
+    html.P("Select the data according to users: ",style={'margin':'40px'}),
     dcc.Dropdown(
         id="dropdown",
         options=["krizia", "peri peri", "pradip", "sirupate","yash"],
@@ -42,6 +43,35 @@ def update_bar_chart(name):
                  color="Date")
     return fig
 
+#Component 2 Pie Chart
+
+pie_component = html.Div([
+    html.P("Select the time for which you want to see personal records values:",style={'margin':'40px'}),
+    dcc.Dropdown(id='values',
+        options=df['Time'].unique().tolist(),
+        value=df['Time'].unique().tolist()[0], clearable=False,
+        style={"text-align":"center",'width':'200px'}
+    ),
+    dcc.Graph(id="graph_p")
+
+])
+
+
+@app.callback(
+    Output("graph_p", "figure"), 
+    # Input("names", "value"), 
+    Input("values", "value"))
+def generate_chart(values):
+    labels = ['CC','EA','TCA','TQA']
+    n=f'Time=="{values}"'
+    nf = df.query(n)
+
+    values = [nf.personalRecords_CC.tolist()[0],nf.personalRecords_EA.tolist()[0],nf.personalRecords_TCA.tolist()[0],
+          nf.personalRecords_TQA.tolist()[0]]
+
+    fig = px.pie(nf, values=values, names=labels, hole=.3,labels=labels)
+    # fig = px.pie(df, values=values, names=names, hole=.3)
+    return fig
 
 
 # Designing the app layout
@@ -67,10 +97,15 @@ app.layout=html.Div(
             )]
         ),
         dbc.Row(
-            [html.P('Pie Chart for time spent by users at different sections',style={'text-align':'center','padding':'4px','margin-top':'40px','font-size':'25px','color':'darkcyan'}),
+            [html.P('Pie Chart for Values of personal records in a particular moment of time',style={'text-align':'center','padding':'4px','margin-top':'40px','font-size':'25px','color':'darkcyan'}),
+        pie_component        ]
+        ),
+        dbc.Row(
+            [html.P('Total time spent according to the respective users with respect to date and time',style={'text-align':'center','padding':'4px','margin-top':'40px','font-size':'25px','color':'darkcyan'}),
             barchart_component],style={'background-color':'floralwhite'}
-        )
-    ],style={'background-color':'floralwhite'}
+        ),
+    ],style={'background-color':'floralwhite'},
+    
 )
 #Run the App
 app.run_server(debug=True)
